@@ -1,7 +1,10 @@
 # signature-work-portfolio
 
-[Chromesthesia Concert (Creative Coding Final)](https://github.com/emmccracken/creative-coding-final)
+[Chromesthesia Concert (Creative Coding Final)](https://github.com/emmccracken/creative-coding-final)   
 
-[Perlin Noise (Creative Coding Project)](https://github.com/emmccracken/perlin-noise-project)
 
-[Exploratory Data Analysis (STAT400 Final)](https://github.com/emmccracken/stat-400-final)
+[Perlin Noise (Creative Coding Project)](https://github.com/emmccracken/perlin-noise-project)   
+
+
+[Exploratory Data Analysis (STAT400 Final)](https://github.com/emmccracken/stat-400-final)  
+
