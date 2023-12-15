@@ -1,5 +1,6 @@
 # Signature Work Portfolio
-CISC 480 - Senior Capstone
+Lizzie McCracken  
+CISC 480 - Senior Capstone  
 Fall 2023
 
 ## Chromesthesia Concert
